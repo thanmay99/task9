@@ -1,0 +1,36 @@
+#back{
+    background-image: url(../images/name.jpg);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    padding-top: 170px;
+    padding-left: 100px;
+    margin-bottom: 10px;
+}
+#front{
+    background-image: url(../images/age.jpg);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    padding-top: 250px;
+    padding-left: 100px;
+    margin-bottom: 10px;
+}
+#email{
+    background-image: url(../images/mail.jpg);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    padding-top: 300px;
+    padding-left: 100px;
+    margin-bottom: 10px;
+}
+#pwd{
+    color: aliceblue;
+    background-image: url(../images/pwd.jpg);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    padding-top: 300px;
+    padding-left: 100px;
+    margin-bottom: 10px;
+}
+#c{
+    background-color: khaki;
+}
